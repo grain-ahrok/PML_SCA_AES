@@ -35,8 +35,8 @@
 
 <br/><br/>
 ## 결과
-학습데이터 7000set
-검증데이터 3000set
+학습데이터 7000set <br/>
+검증데이터 3000set <br/>
 테스트데이터 3000set <br/>
 <img width="674" alt="스크린샷 2024-04-02 오전 1 34 00" src="https://github.com/grain-ahrok/PML_SCA_AES/assets/81209784/64bf62b9-0899-44a2-8378-143b30a75459"> <br/>
 loss: 1.1462 - accuracy: 0.6241 - val_loss: 0.2748 - val_accuracy: 0.9477 <br/><br/>
